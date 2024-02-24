@@ -4,17 +4,18 @@ This repository contains a CLI program that takes the maze of ```#``` and ```.``
 
 Firstly make the program.
 ```sh
-make all
+$ make all
 ```
 
 To uninstall:
 ```sh
-make uninstall
+$ make uninstall
 ```
 
 The usage is:
 ```sh
-usage: ./way_home [file_name] [x1] [y1] [x2] [y2]
+$ ./way_home
+>usage: ./way_home [file_name] [x1] [y1] [x2] [y2]
 ```
 
 You may use this program however you want. We suggest so you play with it using maze in repository or your own. Have fun!
