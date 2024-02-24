@@ -22,5 +22,4 @@ You may use this program however you want. We suggest so you play with it using 
 Creators:\
 [Yaroslav](https://github.com/ma3ter3ky)\
 [Denis](https://github.com/DenD100)\
-[Ivan](https://github.com/PowwwaN)\
-
+[Ivan](https://github.com/PowwwaN)
