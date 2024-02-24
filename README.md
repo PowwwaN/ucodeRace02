@@ -3,14 +3,14 @@
 This repository contains a CLI program that takes the maze of ```#``` and ```.``` in csv format, starting point and exit point and calculates the shortest path.
 
 Firstly make the program.
-```~~
+```sh
 make all
-~~ ```
+```
 
 To uninstall:
-```~~
+```sh
 make uninstall
-~~ ```
+```
 
 The usage is:
 ```sh
